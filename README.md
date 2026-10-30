@@ -2,7 +2,7 @@
 
 Tech Lead & Full Stack Developer based in Málaga, Spain. 26 years shipping software in production — from Ryanair's booking engine to compliance platforms for banks and fintechs, where I built the engineering team from 0 to 23 people and am a named inventor on US patents.
 
-**Stack:** C# / .NET · React · Blazor · JavaScript · SQL Server · Python · Computer vision (YOLO, OpenCV, TensorRT) · Edge AI (Raspberry Pi + Hailo) · AI-assisted development
+**Stack:** C# / .NET · React · Blazor · JavaScript · SQL Server · Python · Computer vision (YOLO, OpenCV, TensorRT) · Edge AI · AI-assisted development
 
 ### Open source
 

@@ -7,6 +7,7 @@ Tech Lead & Full Stack Developer based in Málaga, Spain. 26 years shipping soft
 ### Open source
 
 - **[drone-escort-detector](https://github.com/jachaos/drone-escort-detector)** — personal side project: a quadcopter finds another drone with its own camera and follows it without ever switching to the wrong target. One small YOLO26-s detector, a 1 ms tracker and strict test discipline: 93.3 % recall at 3.6 false boxes per 100 frames on hand-reviewed test videos, zero wrong-target switches. 27-page technical report, including fourteen approaches that did not work.
+- **[archive-ocr-engine](https://github.com/jachaos/archive-ocr-engine)** — an OCR engine for a 300,000-page historical archive that is not allowed to invent text. Two GPUs and five readers that check each other; anything not read with certainty is marked `[ilegible]` with its candidate readings. Preliminary technical report (English and Spanish) with the numbers so far and what is not measured yet.
 - **[Kartessian](https://github.com/Kartessian)** — open-source platform (now archived) to create custom maps from large datasets. Includes [MapCanvas](https://github.com/Kartessian/MapCanvas), a JavaScript library to render large amounts of data over Mapbox or Google Maps.
 - **[Chaos Tech Corp](https://github.com/Chaos-Tech-Corp)** — my US company providing Salesforce services: audits, customization and custom modules. Its reusable Lightning components, like [Input-Field-Lookup](https://github.com/Chaos-Tech-Corp/Input-Field-Lookup), are used and forked by other developers.
 
